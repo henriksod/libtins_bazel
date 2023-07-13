@@ -1,6 +1,6 @@
 # Project to build libtins with Bazel
 
-1. Install bazel with e.g. bazelisk
+1. Install bazel with e.g. [bazelisk](https://github.com/bazelbuild/bazelisk)
 
 2. Run the following command:
 
